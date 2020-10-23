@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this project !
 
-Theme Name: Folio
+Site Name: Amen PortFolio
 Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Author: Amen ALAHASSA
+Site URL: 
