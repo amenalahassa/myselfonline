@@ -99,7 +99,7 @@
           <div class="about-descr">
 
             <p class="p-heading">Je suis. Développeur, passionné du code, de la musique et du business, j'adore rire, manger, voyager et vivre.  </p>
-            <p class="separator">Depuis deux, je suis etudiant au COURS SONOU, en Systeme informatique et Logiciel. Mes domaines de competences engloblent principalement le developpement web, mobile et l'UI/UX Design. Je maitrise bien les freameworks Reactjs, Laravel, AngularJs et je "parle" bien tous les languages du developpement web, mobile et desktop. Organisé, aimant le travail en équipe, je suis totalement mobile et ouvert à toutes les opportunités. Retrouvé mon curriculum vitea <a href="my cv.pdf">ici.</a></p>
+            <p class="separator">Depuis plus de deux ans, je suis etudiant au COURS SONOU, en Systeme informatique et Logiciel. Mes domaines de competences engloblent principalement le developpement web, mobile et l'UI/UX Design. Je maitrise bien les freameworks Reactjs, Laravel, AngularJs et je "parle" bien tous les languages du developpement web, mobile et desktop. Organisé, aimant le travail en équipe, je suis totalement mobile et ouvert à toutes les opportunités. Retrouvé mon curriculum vitea <a href="my cv.pdf">ici.</a></p>
 
           </div>
 
@@ -156,7 +156,7 @@
 
     <div class="container">
       <div class="section-title text-center">
-        <h2>My Portfolio</h2>
+        <h2>Mon Portfolio</h2>
       </div>
     </div>
 
@@ -229,7 +229,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="journal-info">
 
-              <a ><img src="images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
+              <a ><img src="images/b1.jpg" class="img-responsive" alt="img"></a>
 
               <div class="journal-txt">
 
@@ -245,7 +245,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="journal-info">
 
-              <a ><img src="images/blog-post-2.jpg" class="img-responsive" alt="img"></a>
+              <a ><img src="images/b2.jpg" class="img-responsive" alt="img"></a>
 
               <div class="journal-txt">
 
@@ -261,11 +261,11 @@
           <div class="col-lg-4 col-md-6">
             <div class="journal-info">
 
-              <a ><img src="images/blog-post-3.jpg" class="img-responsive" alt="img"></a>
+              <a ><img src="images/b3.jpg" class="img-responsive" alt="img"></a>
 
               <div class="journal-txt">
 
-                <h4><a >A la maison, un peu docile </a></h4>
+                <h4><a >A la maison, toujours aussi docile... </a></h4>
                 <p class="separator">Je suis par parfait, mais je fais ce qui est de mon devoir et toujours de mon mieux. Et c'est locasion pour moi de remercier toute ma famille, pour leur amour et leur soutient
                 </p>
 
@@ -282,11 +282,11 @@
           <div class="col-lg-4 col-md-6">
             <div class="journal-info">
 
-              <a ></a><img src="images/f1.jpeg" class="img-responsive set-img-size" alt="img"></a>
+              <a ></a><img src="images/f3.jpg" class="img-responsive set-img-size" alt="img"></a>
 
               <div class="journal-txt">
 
-                <h4><a ></a>Et en parlant de famille....</a></h4>
+                <h4><a >Et en parlant de famille....</a></h4>
                 <p class="separator">Oui, entourre de ma famille au jour le jour, je trouve le courage de me lever, meme fatigue ou epuise pour continuer a avancer et donner le meilleur de moi meme. 
                 </p>
 
@@ -411,6 +411,11 @@
     </div>
   </div>
   <!-- End section footer -->
+  <!--  -->
+  
+  <audio hidden controls autoplay>
+    <source src="portfolio.mp3" type="audio/mpeg">
+  </audio>
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
