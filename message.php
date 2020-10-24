@@ -4,8 +4,8 @@
     //identifiants mysql
     $host = "localhost";
     $username = "root";
-    $password = "root";
-    $database = "portfolio";
+    $password = "";
+    $database = "";
 
     if($_POST && isset($_POST['name'], $_POST['email'], $_POST['subject'], $_POST['message'])) {
 
@@ -39,7 +39,16 @@
             }else{
               echo "Veuillez reessayer s'il vous plait."; 
             }
+
+            // To send a mail 
+
+            // $success = mail('taka.alahassa@gmail.com', $subject, $name . " , d'adresse email " . $email . " vous envoie le message suivant " . $message);
+            // if ($success) {
+            //   echo  "OK";
+            // }else{
+            //     echo error_get_last()['message'];
+            // }
         }
-  }
+    }
   }
 ?>

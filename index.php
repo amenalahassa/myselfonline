@@ -90,7 +90,7 @@
         <div class="col-lg-4 ">
           <div class="div-img-bg">
             <div class="about-img">
-              <img src="images/me1.jpeg" class="img-responsive" alt="me">
+              <img src="images/home-bg-2.jpeg" class="img-responsive" alt="me">
             </div>
           </div>
         </div>
@@ -210,122 +210,14 @@
   </div>
   <!-- End section portfolio -->
 
-  <!-- todo -->
-  <!-- start section journal -->
-  <div id="journal" class="text-left paddsection">
-
-    <div class="container">
-      <div class="section-title text-center">
-        <h2>Mon univers à moi</h2>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="journal-block">
-
-        <!-- First part -->
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a ><img src="images/b1.jpg" class="img-responsive" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a >La musique, c'est pour moi un refuge.</a></h4>
-                <p class="separator">J'aime la musique, de tous genre surtout celle qui me touche et qui exprime, sur le moment mon état d'esprit. <a href="https://www.youtube.com/watch?v=oD19uHQsiNA&ab_channel=TheVoiceKidsFrance">SOS d'un oiseau en détresse</a> est l'une de mes favoris. 
-                </p>
-
-              </div>
-
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a ><img src="images/b2.jpg" class="img-responsive" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a >Coder, une passion !</a></h4>
-                <p class="separator">Je suis certainement comme mille autres, passioné par le developpement web et mobile. C'est vrai et c'est pour moi un plaisir de faire partir de ce monde de personnes, qui avec le numerique, font des merveilles.
-                </p>
-
-              </div>
-
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a ><img src="images/b3.jpg" class="img-responsive" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a >A la maison, toujours aussi docile... </a></h4>
-                <p class="separator">Je suis par parfait, mais je fais ce qui est de mon devoir et toujours de mon mieux. Et c'est locasion pour moi de remercier toute ma famille, pour leur amour et leur soutient
-                </p>
-
-              </div>
-
-            </div>
-          </div>
-
-        </div>
-
-        <!-- Second part -->
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a ></a><img src="images/f3.jpg" class="img-responsive set-img-size" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a >Et en parlant de famille....</a></h4>
-                <p class="separator">Oui, entourre de ma famille au jour le jour, je trouve le courage de me lever, meme fatigue ou epuise pour continuer a avancer et donner le meilleur de moi meme. 
-                </p>
-
-              </div>
-
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a ></a><img src="images/f2.jpeg" class="img-responsive set-img-size" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a >A l'ecole aussi, c'est une famille...</a></h4>
-                <p class="separator">Ils sont la, a mes cote quand je suis a l'ecole, me donne le sourire et en recoive aussi de moi. C'est une joie et toujours un bonheur de travailler a leur cote.  
-                </p>
-
-              </div>
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </div>
-  <!-- End section journal -->
-
-
   <!-- start sectoion contact -->
   <div id="contact" class="paddsection">
     <div class="container">
       <div class="contact-block1">
         <div class="row">
 
-          <div class="col-lg-6">
-            <div class="contact-contact">
+          <div class="col-lg-12">
+            <div class="contact-contact to-center">
 
               <h2 class="mb-30">Me contacter</h2>
 
@@ -341,7 +233,9 @@
 
             </div>
           </div>
-          <div class="col-lg-6">
+
+          <!-- For send a message to me -->
+          <!-- <div class="col-lg-6">
             <form action="" method="post" role="form" class="contactForm">
               <div class="row">
                 <div id="sendmessage">J'ai bien recu votre message. Je vous repondrai dès que possible. Merci !</div>
@@ -380,7 +274,7 @@
 
               </div>
             </form>
-          </div>
+          </div> -->
         
         </div>
       </div>
@@ -412,10 +306,7 @@
   </div>
   <!-- End section footer -->
   <!--  -->
-  
-  <audio hidden controls autoplay>
-    <source src="portfolio.mp3" type="audio/mpeg">
-  </audio>
+
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>

@@ -154,10 +154,5 @@ $(window).load(function(){
     portfolioIsotope.isotope({ filter: $(this).data('filter') });
   });
   
-  let audio = document.querySelector("audio");
-
-  setTimeout( () => {
-    audio.play();
-  }, 5000)
 })
 

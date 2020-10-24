@@ -19,6 +19,11 @@
   height: 480px !important;
 }
 
+.to-center
+{
+  text-align: center;
+}
+
 
 body {
   background: #ffffff;
