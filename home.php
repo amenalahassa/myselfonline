@@ -90,7 +90,7 @@
         <div class="col-lg-4 ">
           <div class="div-img-bg">
             <div class="about-img">
-              <img src="images/home-bg-2.jpeg" class="img-responsive" alt="me">
+              <img src="images/me1.jpeg" class="img-responsive" alt="me">
             </div>
           </div>
         </div>
