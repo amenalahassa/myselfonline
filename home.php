@@ -179,25 +179,25 @@
           <div class="portfolio-container">
 
             <div class="col-lg-4 col-md-6 portfolio-thumbnail all sample ">
-              <a class="popup-img" href="images/portfolio/7.png">
+              <a class="popup-img" href="images/portfolio/7.png" title="C'est une simple page web qui presente, en quelques lignes, Angelique Kidjo." data-url = "https://codepen.io/amengeek/full/NWKmyPE">
                 <img src="images/portfolio/7.png" alt="img">
               </a>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-thumbnail all sample ">
-              <a class="popup-img" href="images/portfolio/10.png">
+              <a class="popup-img" href="images/portfolio/10.png" title="Mon portfolio, qui parle de moi, de mes loisirs, competences et realisations." data-url="https://mytodosapplication.netlify.app/">
                 <img src="images/portfolio/10.png" alt="img">
               </a>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-thumbnail all react ">
-              <a class="popup-img" href="images/portfolio/8.png">
+              <a class="popup-img" href="images/portfolio/8.png" title="MyTodos est une app, telechargeable qui se charge de vous rappeler, quand au moment venu, d'aller faire une tache que vous avez programmee." data-url="https://mytodosapplication.netlify.app/">
                 <img src="images/portfolio/8.png"  alt="img">
               </a>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-thumbnail all laravel angular">
-              <a class="popup-img" href="images/portfolio/9.png">
+              <a class="popup-img" href="images/portfolio/9.png" title="Larangular est une application qui vous permet de generer vos factures." data-url="https://invoicesmaker.herokuapp.com/">
                 <img src="images/portfolio/9.png" alt="img">
               </a>
             </div>

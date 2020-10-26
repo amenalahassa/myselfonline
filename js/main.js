@@ -127,7 +127,18 @@ $(document).ready(function() {
           // you don't need to add "opener" option if this code matches your needs, it's defailt one.
           return openerElement.is('img') ? openerElement : openerElement.find('img');
         }
+      },
+      image: {
+        tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+        titleSrc: function(item) {
+          if (item.el.data('url') === undefined)
+          {
+            return item.el.attr('title')
+          }
+          return item.el.attr('title') + '<small><a style="color: white;" href = "' + item.el.data('url') + '" target="_blanc">Voir ça.</a></small>'
+        }
       }
+
     });
   };
 
